@@ -1,0 +1,16 @@
+Div {
+border: 1px solid #ffffff;
+}
+
+#header {
+height: 100px;
+width: 800px;
+margin-right: auto;
+margin-left: auto;
+background: url(images/banner.png) no-repeat;
+}
+
+#MainContent {
+width: 800px;
+margin-right: auto;
+margin-left: auto;
