@@ -1,8 +1,8 @@
 Div {
-border: 1px solid #ffffff;
+border: 1px solid #000;
 }
 
-#header {
+#Header {
 height: 100px;
 width: 800px;
 margin-right: auto;
@@ -14,3 +14,26 @@ background: url(images/banner.png) no-repeat;
 width: 800px;
 margin-right: auto;
 margin-left: auto;
+}
+
+#Footer {
+width: 802px;
+margin-right: auto;
+margin-left: auto;
+height: 50px;
+border: 1px solid #fff;
+}
+
+#FooterLeft {
+	float: left;
+	width: 399px; /*49.5%*/
+	height: 50px;
+	border: 1px solid green;
+}
+
+#footerRight {
+	float: right;
+	width: 399px; /*49.5%*/
+	height: 50px;
+	border: 1px solid red;
+}
