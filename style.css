@@ -17,23 +17,23 @@ margin-left: auto;
 }
 
 #Footer {
-width: 802px;
-margin-right: auto;
-margin-left: auto;
-height: 50px;
-border: 1px solid #fff;
+	width: 802px;
+	margin-right: auto;
+	margin-left: auto;
+	height: 50px;
+	border: 1px solid #000;
 }
 
 #FooterLeft {
-	float: left;
-	width: 399px; /*49.5%*/
-	height: 50px;
-	border: 1px solid green;
+	float:left;
+	width:399px; /*49.5%*/
+	height:50px;
+	border:1px solid green;
 }
 
-#footerRight {
-	float: right;
-	width: 399px; /*49.5%*/
-	height: 50px;
-	border: 1px solid red;
+#FooterRight {
+	float:right;
+	width:399px; /*49.5%*/
+	height:50px;
+	border:1px solid red;
 }
